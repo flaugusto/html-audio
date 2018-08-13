@@ -1,0 +1,22 @@
+{
+  "name": "node-html-audio",
+  "version": "1.0.0",
+  "description": "Voice transformation using nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaugusto/html-audio"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaugusto/html-audio/issues"
+  },
+  "homepage": "https://github.com/flaugusto/html-audio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
